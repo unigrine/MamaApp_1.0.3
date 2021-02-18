@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">마마</string>
+    <string name="facebook_app_id">377904593485710</string>
+    <string name="fb_login_protocol_scheme">fb377904593485710</string>
+    <string name="kakao_app_key">76269bd9d3c2a1c53e02e163437c0433</string>
+    <string name="naver_map_key">tkwwkwa5ko</string>
+</resources>
