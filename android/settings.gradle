@@ -1,0 +1,23 @@
+rootProject.name = 'mamaapp'
+include ':react-native-device-info'
+project(':react-native-device-info').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-device-info/android')
+include ':@react-native-community_checkbox'
+project(':@react-native-community_checkbox').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/checkbox/android')
+include ':react-native-fbsdk'
+project(':react-native-fbsdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fbsdk/android')
+include ':react-native-location-switch'
+project(':react-native-location-switch').projectDir = new File(settingsDir, '../node_modules/react-native-location-switch/android')
+include ':react-native-settings'
+project(':react-native-settings').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-settings/android')
+include ':react-native-community-geolocation'
+project(':react-native-community-geolocation').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/geolocation/android')
+include ':react-native-onesignal'
+project(':react-native-onesignal').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-onesignal/android')
+include ':react-native-nmap'
+project(':react-native-nmap').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-nmap/android')
+include ':@react-native-seoul_kakao-login'
+project(':@react-native-seoul_kakao-login').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-seoul/kakao-login/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

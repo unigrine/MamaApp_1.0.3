@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>754355850770-tia1f7md05gnfr1dh8e9siu1hpc0oopn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.754355850770-tia1f7md05gnfr1dh8e9siu1hpc0oopn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>754355850770-1hi1hvm67d5nc7gkg3gc084isod06b04.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJ0GOM56oG9dzM_QXnamc_ztkUj0xrNVc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>754355850770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mymarketplaceapp.org</string>
+	<key>PROJECT_ID</key>
+	<string>mama-b6088</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mama-b6088.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:754355850770:ios:cee834a9493fb9f692d2cb</string>
+</dict>
+</plist>

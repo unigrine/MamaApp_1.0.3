@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "754355850770",
+    "project_id": "mama-b6088",
+    "storage_bucket": "mama-b6088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754355850770:android:d25c4699f053f60892d2cb",
+        "android_client_info": {
+          "package_name": "com.mymarketplaceapp.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754355850770-1hi1hvm67d5nc7gkg3gc084isod06b04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymarketplaceapp.org",
+            "certificate_hash": "3ca7036dcd25e54e08cc0e0f15597c9755a8521f"
+          }
+        },
+        {
+          "client_id": "754355850770-rkhida9dfevbdkfsst0mj6ncqj6a2kei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymarketplaceapp.org",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "754355850770-u2je3ocamrl8r80jptcvqk9qtajr4oam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymarketplaceapp.org",
+            "certificate_hash": "4c93e913bcbe62f24332bd7c91ad894bb9bec1dc"
+          }
+        },
+        {
+          "client_id": "754355850770-e6vdmmjr69194sgbilbhjs136qgs9a7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DgtqJPjj9rtlcUTuBaHOZrTgd7F1kSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754355850770-e6vdmmjr69194sgbilbhjs136qgs9a7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754355850770-bcsl8i7220vhs3ohgm3r3mpo10ottbba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mymarketplace.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
